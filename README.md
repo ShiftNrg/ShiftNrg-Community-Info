@@ -13,6 +13,7 @@ To get your contributions added or updated please submit an issue or contact me 
 
 ## Main repo
 https://github.com/ShiftNrg
+
   This is the source for ShiftNrg official code, including current Lisk based node script and future Substrate node script.
 
 ## Tools for node operators on the shift-lisk chain.
@@ -20,6 +21,7 @@ https://github.com/ShiftNrg
 ### Monitoring, managing, and recovering tools.
 
 https://github.com/MxShift
+
   MX has multiple tools available to help node operators manage their nodes. This collection is very useful in the event of a chain or node issue.
 
 ### Pool scripts to share forged Shift with voters
