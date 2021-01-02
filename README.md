@@ -2,7 +2,7 @@
 
 ShiftNrg is developing a custom IPFS cluster to provide storage and hosting with user-determined replication and censorship resistance.
 
-##This is a collection of project info, community tools and related material. 
+## This is a collection of project info, community tools and related material. 
 To get your contributions added or updated please submit an issue or contact me via Telegram or at pnwdrew@shiftnrg,com.
 
 [Code of Conduct](https://github.com/PNWDrew/ShiftNrg-Community-Info/blob/main/Code%20of%20Conduct.MD)
