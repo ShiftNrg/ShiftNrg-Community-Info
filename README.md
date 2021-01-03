@@ -48,7 +48,7 @@ To get your contributions added or updated please submit an issue, or contact me
 
 [Nano Desktop Wallet for mainnet and testnet](https://github.com/ShiftNrg/shift-nano/releases)
 
-    This has no relation the the hardware wallet of same name.
+    This has no relation to the hardware wallet of same name.
   
 [Paper Wallet](https://github.com/ShiftNrg/shift-paperwallet) 
 
