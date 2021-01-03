@@ -71,29 +71,31 @@ To get your contributions added or updated please submit an issue or contact me 
 
 ### Monitoring, managing, and recovery tools by community members. If you run a node, you'll want some of these tools.
 
-    Delegate mx has [Multiple tools](https://github.com/MxShift) available to help node operators manage their nodes. This collection is very useful for delegates in the event of a chain or node issue.
+Delegate mx has [Multiple tools](https://github.com/MxShift) available to help node operators manage their nodes. This collection is very useful for delegates in the event of a chain or node issue.
 
-    Delegate mrgr also has [tools](https://github.com/mrgrshift) for node management. Some are updated/forked in Mxshift's repo above.
+Delegate mrgr also has [tools](https://github.com/mrgrshift) for node management. Some are updated/forked in Mxshift's repo above.
 
-    Delegate samuel_paulsun has a few interesting [utilities](https://github.com/samuelpaulsun?tab=repositories)
+Delegate samuel_paulsun has a few interesting [utilities](https://github.com/samuelpaulsun?tab=repositories)
 
 ### Pool scripts to distribute forged Shift with voters for delegates on Lisk chain
 
-    Many delegates share a portion of their forgings with the voters who have delegated their votes to run nodes that secure and validate blocks on the chain.
+Many delegates share a portion of their forgings with the voters who have delegated their votes to run nodes that secure and validate blocks on the chain.
 
-    [Delegate BFX's script](https://github.com/Bx64/shift-pool)
+[Delegate BFX's script](https://github.com/Bx64/shift-pool)
 
-    [Delegate PNWDrew's script](https://github.com/PNWDrew/dpos-pool)
+[Delegate PNWDrew's script](https://github.com/PNWDrew/dpos-pool)
 
-    [dakk's original script](https://github.com/dakk/lisk-pool) 
+[dakk's original script](https://github.com/dakk/lisk-pool) 
 
 
 ### Donation addresses for anyone wishing to provide financial assistance for development, servers, bounties, etc...
 
 ShiftNRG - SHIFT - Address: 6323231687467908627S Name: substrate_dev_fund
 https://explorer.shiftnrg.io/address/6323231687467908627S
+
 Ethereum - ETH - Address: 0xDD03E14985d819381B1ebC1543f3648BBF9b0B3d
 https://etherscan.io/address/0xdd03e14985d819381b1ebc1543f3648bbf9b0b3d
+
 Bitcoin - BTC - Address: bc1qp5gaaj68f9pwxdpv4klu77wp572c3p06yqg7ld
 https://www.blockchain.com/btc/address/bc1qp5gaaj68f9pwxdpv4klu77wp572c3p06yqg7ld
 
