@@ -4,8 +4,9 @@ ShiftNrg is developing a custom IPFS cluster to provide storage and hosting with
 
 General Contact - contact@shiftnrg.com
 
-## This is a collection of project info, community tools and related material. 
-To get your contributions added or updated please submit an issue or contact me via Telegram or at pnwdrew@shiftnrg,com.
+## This is a collection of project info, community tools and related material.
+
+To get your contributions added or updated please submit an issue, or contact me via Telegram or Discord. 
 
 [Code of Conduct](https://github.com/PNWDrew/ShiftNrg-Community-Info/blob/main/Code%20of%20Conduct.MD)
 
@@ -55,13 +56,13 @@ To get your contributions added or updated please submit an issue or contact me 
 
 [ShiftNrg / Shift Community Project](https://github.com/ShiftNrg)
 
-    This is the source for ShiftNrg official code, including current node script and development of [substrate](https://www.parity.io/what-is-substrate/) core
+This is the source for ShiftNrg official code, including current node script and development of [substrate](https://www.parity.io/what-is-substrate/) core
     
 [The wrapped Shift contract](https://github.com/ShiftNrg/wrappedShift)
 
 ## Info
 
-    General info on ShiftNrg's DPoS system, goals, voting etc... [Wiki]( https://www.reddit.com/r/ShiftProject/wiki/index#wiki_delegate_instructions)
+General info on ShiftNrg's DPoS system, goals, voting etc... [Wiki]( https://www.reddit.com/r/ShiftProject/wiki/index#wiki_delegate_instructions)
   
 [Guide to setting up a node](https://www.reddit.com/r/ShiftProject/wiki/guides/delegate)
 
