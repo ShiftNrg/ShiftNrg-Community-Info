@@ -72,7 +72,7 @@ General info on ShiftNrg's DPoS system, goals, voting etc... [Wiki]( https://www
 
 ### Monitoring, managing, and recovery tools by community members. If you run a node, you'll want some of these tools.
 
-Delegate mx has [Multiple tools](https://github.com/MxShift) available to help node operators manage their nodes. This collection is very useful for delegates in the event of a chain or node issue.
+Delegate mx has [multiple tools](https://github.com/MxShift) available to help node operators manage their nodes. This collection is very useful for delegates in the event of a chain or node issue.
 
 Delegate mrgr also has [tools](https://github.com/mrgrshift) for node management. Some are updated/forked in Mxshift's repo above.
 
@@ -80,7 +80,7 @@ Delegate samuel_paulsun has a few interesting [utilities](https://github.com/sam
 
 ### Pool scripts to distribute forged Shift with voters for delegates on Lisk chain
 
-Many delegates share a portion of their forgings with the voters who have delegated their votes to run nodes that secure and validate blocks on the chain.
+Many delegates share a portion of their forgings with their voters.
 
 [Delegate BFX's script](https://github.com/Bx64/shift-pool)
 
