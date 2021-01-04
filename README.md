@@ -88,8 +88,8 @@ Many delegates share a portion of their forgings with their voters.
 
 [dakk's original script](https://github.com/dakk/lisk-pool) 
 
-
-### Donation addresses for anyone wishing to provide financial assistance for development, servers, bounties, etc...
+_______________________________________________________________________________________________________________________________________________________
+## Donation addresses for anyone wishing to provide financial assistance for development, servers, bounties, etc...
 
 ShiftNRG - SHIFT - Address: 6323231687467908627S Name: substrate_dev_fund
 https://explorer.shiftnrg.io/address/6323231687467908627S
