@@ -1,10 +1,10 @@
 # ShiftNrg-Community-Info (Work in Progress)
 
-ShiftNrg is developing a custom, private IPFS cluster to provide storage and hosting with user-determined replication and censorship resistance. ShiftNrg uses a DPoS system with 101 delegates validating blocks.Currently this is based on Lisk, we will be migrating to Substrate; see link below.
+ShiftNrg is developing a custom, private IPFS cluster to provide storage and hosting with user-determined replication and censorship resistance. ShiftNrg uses a DPoS system with 101 delegates validating blocks. Currently this is based on Lisk, we will be migrating to Substrate; see link below.
 
 General Contact - contact@shiftnrg.com
 
-# ShiftNrg is a community-led project.Contributions are welcome. Join [Discord](https://discord.gg/vpQY5Eh) to offer your skillset.
+# ShiftNrg is a community-led project. Contributions are welcome. Join [Discord](https://discord.gg/vpQY5Eh) to offer your skillset.
 
 ## This is a collection of project info, community tools and related material.
 
@@ -20,11 +20,11 @@ To get your contributions added or updated please submit an issue, or contact me
 
 [Telegram - ShiftNrg - The New Web³](https://t.me/shiftproject) 
 
-    An unofficial, casual group devoted to ShiftNrg. Most announcements will be mirrored here
+    An unofficial, casual group devoted to ShiftNrg. Most announcements will be mirrored here.
 
 [Twitter](https://twitter.com/ShiftNrg)
 
-    Follow us for updates and announcements
+    Follow us for updates and announcements.
 
 [Reddit](https://www.reddit.com/r/ShiftProject/wiki/index)
 
@@ -32,7 +32,7 @@ To get your contributions added or updated please submit an issue, or contact me
 
 [Medium](https://medium.com/@ShiftNrg)
 
-    Official news and updates will be here
+    Official news and updates will be here.
 
 ## Block Explorers
 
@@ -56,19 +56,19 @@ To get your contributions added or updated please submit an issue, or contact me
 
 [ShiftNrg / Shift Community Project](https://github.com/ShiftNrg)
 
-This is the source for ShiftNrg official code, including current node script and development of [substrate](https://www.parity.io/what-is-substrate/) core
+This is the source for ShiftNrg official code, including current node script and development of [substrate](https://www.parity.io/what-is-substrate/) core.
     
 [The wrapped Shift contract](https://github.com/ShiftNrg/wrappedShift)
 
 ## Info
 
-General info on ShiftNrg's DPoS system, goals, voting etc... [Wiki]( https://www.reddit.com/r/ShiftProject/wiki/index#wiki_delegate_instructions)
+General info on ShiftNrg's DPoS system, goals, voting et cetera [Wiki]( https://www.reddit.com/r/ShiftProject/wiki/index#wiki_delegate_instructions).
   
 [Guide to setting up a node](https://www.reddit.com/r/ShiftProject/wiki/guides/delegate)
 
 ## Tools for node operators on the shift-lisk chain. Most are maintained by delegates. 
 
-    For help using management tools please join Discord
+    For help using management tools please join Discord.
 
 ### Monitoring, managing, and recovery tools by community members. If you run a node, you'll want some of these tools.
 
@@ -76,7 +76,7 @@ Delegate mx has [multiple tools](https://github.com/MxShift) available to help n
 
 Delegate mrgr also has [tools](https://github.com/mrgrshift) for node management. Some are updated/forked in Mxshift's repo above.
 
-Delegate samuel_paulsun has a few interesting [utilities](https://github.com/samuelpaulsun?tab=repositories)
+Delegate samuel_paulsun has a few interesting [utilities](https://github.com/samuelpaulsun?tab=repositories).
 
 ### Pool scripts to distribute forged Shift with voters for delegates on Lisk chain
 
@@ -89,7 +89,7 @@ Many delegates share a portion of their forgings with their voters.
 [dakk's original script](https://github.com/dakk/lisk-pool) 
 
 _______________________________________________________________________________________________________________________________________________________
-## Donation addresses for anyone wishing to provide financial assistance for development, servers, bounties, etc...
+## Donation addresses for anyone wishing to provide financial assistance for development, servers, bounties, et cetera.
 
 ShiftNRG - SHIFT - Address: 6323231687467908627S Name: substrate_dev_fund
 https://explorer.shiftnrg.io/address/6323231687467908627S
