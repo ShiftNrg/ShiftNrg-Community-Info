@@ -20,11 +20,11 @@ General Contact - contact@shiftnrg.com
 
 ## Block Explorers
 
-[Mainnet Explorer](https://explorer.shiftnrg.org/)[Testnet Explorer](https://explorer.testnet.shiftnrg.org/)
+[Mainnet Explorer](https://explorer.shiftnrg.org/)[ Testnet Explorer](https://explorer.testnet.shiftnrg.org/)
 
 ## Wallets. Easy to use, ask in Telegram or Discord if you have questions
 
-[Mainnet - Web Wallet](https://wallet.shiftnrg.org/)[Testnet - Web Wallet](https://wallet.testnet.shiftnrg.org/)
+[Mainnet - Web Wallet](https://wallet.shiftnrg.org/)[ Testnet - Web Wallet](https://wallet.testnet.shiftnrg.org/)
 
 [Nano Desktop Wallet for mainnet and testnet](https://github.com/ShiftNrg/shift-nano/releases)
   
