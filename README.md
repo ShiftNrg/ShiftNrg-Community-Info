@@ -10,7 +10,7 @@ General Contact - contact@shiftnrg.com
 
 [Discord invite](https://discord.gg/vpQY5Eh). ShiftNrg community, devs, and delegates.
 
-[Telegram - ShiftNrg - The New Web³](https://t.me/shiftproject) An unofficial, casual group devoted to ShiftNrg. 
+[Telegram - ShiftNrg - The New Web³](https://t.me/shiftproject) Unofficial 
 
 [Twitter](https://twitter.com/ShiftNrg)
 
@@ -20,11 +20,11 @@ General Contact - contact@shiftnrg.com
 
 ## Block Explorers
 
-[Mainnet Explorer](https://explorer.shiftnrg.org/)[ Testnet Explorer](https://explorer.testnet.shiftnrg.org/)
+[Mainnet Explorer](https://explorer.shiftnrg.org/)....[ Testnet Explorer](https://explorer.testnet.shiftnrg.org/)
 
 ## Wallets. Easy to use, ask in Telegram or Discord if you have questions
 
-[Mainnet - Web Wallet](https://wallet.shiftnrg.org/)[ Testnet - Web Wallet](https://wallet.testnet.shiftnrg.org/)
+[Mainnet - Web Wallet](https://wallet.shiftnrg.org/)....[ Testnet - Web Wallet](https://wallet.testnet.shiftnrg.org/)
 
 [Nano Desktop Wallet for mainnet and testnet](https://github.com/ShiftNrg/shift-nano/releases)
   
@@ -46,7 +46,7 @@ Delegate mrgr also has [tools](https://github.com/mrgrshift) for node management
 
 Delegate samuel_paulsun has a few interesting [utilities](https://github.com/samuelpaulsun?tab=repositories).
 
-### Pool scripts to distribute forged Shift with voters on Lisk chain
+## Pool scripts to distribute forged Shift with voters on Lisk chain
 
 [Delegate BFX's script](https://github.com/Bx64/shift-pool)
 
