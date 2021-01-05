@@ -8,9 +8,9 @@ General Contact - contact@shiftnrg.com
 
 ## Social media
 
-[Discord invite](https://discord.gg/vpQY5Eh). The primary means of interacting with the ShiftNrg community, devs, and delegates.
+[Discord invite](https://discord.gg/vpQY5Eh). ShiftNrg community, devs, and delegates.
 
-[Telegram - ShiftNrg - The New Web³](https://t.me/shiftproject) An unofficial, casual group devoted to ShiftNrg. Most announcements will be mirrored here.
+[Telegram - ShiftNrg - The New Web³](https://t.me/shiftproject) An unofficial, casual group devoted to ShiftNrg. 
 
 [Twitter](https://twitter.com/ShiftNrg)
 
@@ -36,7 +36,7 @@ General Contact - contact@shiftnrg.com
 
 ## Info
 
-[General info on ShiftNrg's DPoS system, goals, voting et cetera]]( https://www.reddit.com/r/ShiftProject/wiki/index#wiki_delegate_instructions).
+[General info on ShiftNrg's DPoS system, goals, voting et cetera]](https://www.reddit.com/r/ShiftProject/wiki/index#wiki_delegate_instructions)
   
 [Guide to setting up a node](https://www.reddit.com/r/ShiftProject/wiki/guides/delegate)
 
