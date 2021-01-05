@@ -38,7 +38,7 @@ General Contact - contact@shiftnrg.com
   
 [Guide to setting up a node](https://www.reddit.com/r/ShiftProject/wiki/guides/delegate)
 
-### Monitoring, managing, and recovery tools by community members. If you run a node, you'll want some of these tools.
+## Monitoring, managing, and recovery tools by community members. If you run a node, you'll want some of these tools.
 
 Delegate mx has [multiple tools](https://github.com/MxShift) available to help node operators manage their nodes. 
 
