@@ -1,4 +1,4 @@
-# ShiftNrg-Community-Info (Work in Progress)
+# ShiftNrg-Community-Info 
 
 ShiftNrg is developing a custom, private IPFS cluster to provide storage and hosting with user-determined replication and censorship resistance. ShiftNrg uses a DPoS system with 101 delegates validating blocks. Currently this is based on Lisk, we will be migrating to Substrate; see link below.
 
