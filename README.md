@@ -10,13 +10,17 @@ General Contact - contact@shiftnrg.com
 
 [Discord invite](https://discord.gg/vpQY5Eh). ShiftNrg community, devs, and delegates.
 
-[Telegram - ShiftNrg - The New Web³](https://t.me/shiftproject) Unofficial 
+[Telegram - ShiftNrg Official](https://t.me/ShiftNrg) 
+
+[Telegram - ShiftNrg Announcements](https://t.me/ShiftNrgNews) 
+
+[Telegram - ShiftNrg - The New Web³](https://t.me/ShiftProject) unofficial 
 
 [Twitter](https://twitter.com/ShiftNrg)
 
 [Reddit](https://www.reddit.com/r/ShiftProject/wiki/index)
 
-[Medium](https://medium.com/@ShiftNrg)
+[Medium](https://news.shiftnrg.org)
 
 ## Block Explorers
 
