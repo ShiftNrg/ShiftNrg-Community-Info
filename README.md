@@ -46,7 +46,7 @@ General contact - contact@shiftnrg.com
 
 ## Main repo
 
-[ShiftNrg / Shift Community Project](https://github.com/ShiftNrg) 
+[ShiftNrg / Shift Community Project](https://github.com/ShiftNrg) (core components Jenga and Phoenix are in private repos)
 
 ## Info
   
