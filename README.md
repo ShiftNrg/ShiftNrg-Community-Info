@@ -24,9 +24,17 @@ General contact - contact@shiftnrg.com
 
 [Code of Conduct](https://github.com/PNWDrew/ShiftNrg-Community-Info/blob/main/Code%20of%20Conduct.MD)
 
+## Exchange
+
+[Uniswap](https://info.uniswap.wshift.trade/) for wShift
+
 ## Block Explorers
 
 [Mainnet Explorer](https://explorer.shiftnrg.org/)....[ Testnet Explorer](https://explorer.testnet.shiftnrg.org/)
+
+[Substrate testnet](https://telemetry.polkadot.io/#list/ShiftNrg%20Testnet)
+
+[wShift](https://etherscan.io/token/0x4b4571925e94ccd8c546b39462a270cc9b3ed1e4)
 
 ## Wallets. Easy to use, ask in Telegram or Discord if you have questions
 
