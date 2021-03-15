@@ -1,10 +1,10 @@
 # ShiftNrg-Community-Info 
 
-[ShiftNrg](https://shiftnrg.org/) is developing a custom, private IPFS cluster to provide storage and hosting with user-determined replication and censorship resistance. ShiftNrg uses a DPoS system with 101 delegates validating blocks. ShiftNrg uses a DPoS system with 101 delegates validating blocks. ShiftNrg is migrating core codebase to Substrate
+[ShiftNrg](https://shiftnrg.org/) is developing a custom, private IPFS cluster to provide storage and hosting with user-determined replication and censorship resistance. ShiftNrg uses a DPoS system with 101 delegates validating blocks. ShiftNrg uses a DPoS system with 101 delegates validating blocks. ShiftNrg is migrating core codebase to Substrate.
 
-## [News](https://news.shiftnrg.org/)
+[News and Updates](https://news.shiftnrg.org/)
 
-General Contact - contact@shiftnrg.com
+General contact - contact@shiftnrg.com
 
 ## Social media
 
